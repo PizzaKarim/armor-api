@@ -1,0 +1,6 @@
+name: ${project.name}
+version: ${project.version}
+main: net.hmsvr.bukkit.armor_api.ArmorAPI
+author: Karim
+load: STARTUP
+api-version: 1.13
